@@ -1,0 +1,31 @@
+body {
+    font-family: Verdana, Geneva, sans-serif;
+    background-color: #7f8c8d;
+  }
+
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    color: rgba(236, 240, 241, 0.5);
+    font-size: 6em;
+    margin-left: 1em;
+    margin-bottom: -.3em;
+  }
+
+#instructions {
+  color: #c0392b;
+  margin-left: 4.2em;
+}
+
+#box {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    position: relative;
+    background-color: red;
+  }
+
+.bold {
+    font-weight: bold;
+    color: rgba(236, 240, 241, 0.5);
+    margin-left: 6.2em;
+  }
